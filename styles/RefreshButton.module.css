@@ -1,0 +1,8 @@
+.refreshButton {
+    padding: 10px 20px;
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
